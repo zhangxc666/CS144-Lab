@@ -3,3 +3,5 @@
 /.vscode
 *.swp
 /.cache
+/.idea
+/cmake-build-debug-wsl2
