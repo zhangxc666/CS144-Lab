@@ -18,3 +18,12 @@ To run speed benchmarks: `cmake --build build --target speed`
 To run clang-tidy (which suggests improvements): `cmake --build build --target tidy`
 
 To format code: `cmake --build build --target format`
+
+==============================
+
+### Finish List
+
+`Lab0`：用时2h，一天
+`Lab1`：用时2h，一天
+`Lab2`：用时4h，一天
+`Lab3`：用时12h（主要根本没看到函数组织逻辑），四天
