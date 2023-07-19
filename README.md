@@ -27,3 +27,4 @@ To format code: `cmake --build build --target format`
 `Lab1`：用时2h，一天
 `Lab2`：用时4h，一天
 `Lab3`：用时12h（主要根本没看到函数组织逻辑），四天
+`Lab4`：用时4h（仅debug一次就通过所有样例。跟着文档走就行，文档情况写的特别全），一天
