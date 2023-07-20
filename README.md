@@ -26,6 +26,7 @@ To format code: `cmake --build build --target format`
 - `Lab0`：用时2h
 - `Lab1`：用时2h
 - `Lab2`：用时4h
-- `Lab3`：用时12h（主要根本没看到函数组织逻辑）
+- `Lab3`：用时12h（主要根本没看懂函数组织逻辑）
 - `Lab4`：用时4h（仅debug一次就通过所有样例。跟着文档走就行，文档情况写的特别全）
 - `Lab5`：用时3h（挺简单，就是有个坑点，进行route更新ttl时，需要更新校验和）
+- `Lab6和Lab7`：无需写代码，至此cs144完成，8天成功完成lab。
